@@ -573,7 +573,7 @@ footer {
     min-width: 320px;
   }
   .bg h1 {
-    font-size: 2.6em;
+    font-size: 2.4em;
     text-align: center;
   }
   /* main - chapter*/
@@ -621,6 +621,7 @@ footer {
   .about-div-2 {
     grid-row: 1;
     background: transparent;
+    min-width: 315px;
   }
 
   .card {
@@ -640,7 +641,7 @@ footer {
   /* project */
   .favorites-wrapper,
   .contact-wrapper {
-    min-width: 360px;
+    min-width: 315px;
   }
   .favorites-header {
     padding-bottom: 0;

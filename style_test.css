@@ -519,6 +519,7 @@ footer {
 
   nav > .main-menu.active {
     top: 120px;
+    min-width: 315px;
   }
 
   nav ul > li {
